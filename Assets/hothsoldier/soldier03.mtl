@@ -1,0 +1,337 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 17.07.2008 17:38:00
+
+newmtl gant
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3961 0.3961 0.3961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\gant.jpg
+	map_Kd maps\gant.jpg
+	map_bump maps\gantbump.jpg
+
+newmtl ceinture
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2784 0.2078 0.1176
+	Ks 0.2610 0.2610 0.2610
+	Ke 0.0000 0.0000 0.0000
+	map_bump maps\Map__136_Noise.tga
+
+newmtl capuche
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5255 0.5255 0.5255
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\capuche.jpg
+	map_Kd maps\capuche.jpg
+	map_bump maps\capuchebump.jpg
+
+newmtl Face
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5373 0.5373 0.5373
+	Ks 0.0718 0.0718 0.0718
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\luke-face00.jpg
+	map_Kd maps\luke-face00.jpg
+	map_bump maps\luke-face-bump00.jpg
+	bump maps\luke-face-bump00.jpg
+
+newmtl col
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\col.jpg
+	map_Kd maps\col.jpg
+
+newmtl pantalon
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\pantalon.jpg
+	map_Kd maps\pantalon.jpg
+	map_bump maps\pantalonbump.jpg
+
+newmtl veste01
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\veste01.jpg
+	map_Kd maps\veste01.jpg
+	map_bump maps\veste2bump.jpg
+
+newmtl veste
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\veste00.jpg
+	map_Kd maps\veste00.jpg
+	map_bump maps\veste00bump.jpg
+
+newmtl 22___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\boucle-botte.jpg
+	map_Kd maps\boucle-botte.jpg
+	map_bump maps\botte bump.jpg
+
+newmtl botte_avant
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\botte_.jpg
+	map_Kd maps\botte_.jpg
+	map_bump maps\bottebump_.jpg
+
+newmtl botte_arriere
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\botte__.jpg
+	map_Kd maps\botte__.jpg
+	map_bump maps\bottebump__.jpg
+
+newmtl electronique_g
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8353 0.8353 0.8353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl electronique_r
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl echarppe02
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\echarppe02.jpg
+	map_Kd maps\echarppe02.jpg
+	map_bump maps\echarppebump.jpg
+	bump maps\echarppebump.jpg
+
+newmtl Material__8
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5020 0.5020 0.5020
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.5020 0.5020 0.5020
+
+newmtl verre_lunette
+	Ns 31.0000
+	Ni 1.5000
+	d 0.2600
+	Tr 0.2600
+	Tf 0.2600 0.2600 0.2600 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.7380 0.7380 0.7380
+	Ke 0.0000 0.0000 0.0000
+
+newmtl lunette_monture
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.2790 0.2790 0.2790
+	Ke 0.0000 0.0000 0.0000
+
+newmtl echarppe
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4784 0.4784 0.4784
+	Ks 0.0990 0.0990 0.0990
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\echarppe.jpg
+	map_Kd maps\echarppe.jpg
+	map_bump maps\echarppebump.jpg
+
+newmtl casquette
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4549 0.4549 0.4549
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\casquette.jpg
+	map_Kd maps\casquette.jpg
+	map_bump maps\casquettebump.jpg
+
+newmtl elastique_lunette
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7176 0.7176 0.7176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl electronique_casque
+	Ns 44.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5804 0.5804 0.5804
+	Ks 0.1620 0.1620 0.1620
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\metal.jpg
+	map_Kd maps\metal.jpg
+
+newmtl dent
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8980 0.8980 0.8980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl oeil
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.9878 0.9878 0.9878
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\luke eyes.jpg
+	map_Kd maps\luke eyes.jpg
+
+newmtl boucle_metal_ceinture
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6902 0.7216 0.7412
+	Ks 0.0900 0.0900 0.0900
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\metal.jpg
+	map_Kd maps\metal.jpg

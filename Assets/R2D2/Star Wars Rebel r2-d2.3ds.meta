@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 2cfa674e7b6374f34a5822d7ab959cda
+timeCreated: 1488305159
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_SHIP_0
+    100002: A_SHIP_1
+    100004: A_SHIP_2
+    100006: A_SHIP_3
+    100008: BLACK_L0
+    100010: BLACK_L1
+    100012: BLACK_L2
+    100014: BLACK_L3
+    100016: BLACK_TH
+    100018: BLACK_TU
+    100020: BLUE_R20
+    100022: BLUE_R21
+    100024: BLUE_R22
+    100026: BROWN_RA
+    100028: GREY_ALU
+    100030: METAL_L0
+    100032: METAL_L1
+    100034: METAL_L2
+    100036: METAL_L3
+    100038: METAL_L4
+    100040: METAL_L5
+    100042: METAL_L6
+    100044: METAL_L7
+    100046: //RootNode
+    100048: WHITE_G0
+    100050: WHITE_G1
+    100052: WHITE_GL
+    400000: A_SHIP_0
+    400002: A_SHIP_1
+    400004: A_SHIP_2
+    400006: A_SHIP_3
+    400008: BLACK_L0
+    400010: BLACK_L1
+    400012: BLACK_L2
+    400014: BLACK_L3
+    400016: BLACK_TH
+    400018: BLACK_TU
+    400020: BLUE_R20
+    400022: BLUE_R21
+    400024: BLUE_R22
+    400026: BROWN_RA
+    400028: GREY_ALU
+    400030: METAL_L0
+    400032: METAL_L1
+    400034: METAL_L2
+    400036: METAL_L3
+    400038: METAL_L4
+    400040: METAL_L5
+    400042: METAL_L6
+    400044: METAL_L7
+    400046: //RootNode
+    400048: WHITE_G0
+    400050: WHITE_G1
+    400052: WHITE_GL
+    2300000: A_SHIP_0
+    2300002: A_SHIP_1
+    2300004: A_SHIP_2
+    2300006: A_SHIP_3
+    2300008: BLACK_L0
+    2300010: BLACK_L1
+    2300012: BLACK_L2
+    2300014: BLACK_L3
+    2300016: BLACK_TH
+    2300018: BLACK_TU
+    2300020: BLUE_R20
+    2300022: BLUE_R21
+    2300024: BLUE_R22
+    2300026: BROWN_RA
+    2300028: GREY_ALU
+    2300030: METAL_L0
+    2300032: METAL_L1
+    2300034: METAL_L2
+    2300036: METAL_L3
+    2300038: METAL_L4
+    2300040: METAL_L5
+    2300042: METAL_L6
+    2300044: METAL_L7
+    2300046: WHITE_G0
+    2300048: WHITE_G1
+    2300050: WHITE_GL
+    3300000: A_SHIP_0
+    3300002: A_SHIP_1
+    3300004: A_SHIP_2
+    3300006: A_SHIP_3
+    3300008: BLACK_L0
+    3300010: BLACK_L1
+    3300012: BLACK_L2
+    3300014: BLACK_L3
+    3300016: BLACK_TH
+    3300018: BLACK_TU
+    3300020: BLUE_R20
+    3300022: BLUE_R21
+    3300024: BLUE_R22
+    3300026: BROWN_RA
+    3300028: GREY_ALU
+    3300030: METAL_L0
+    3300032: METAL_L1
+    3300034: METAL_L2
+    3300036: METAL_L3
+    3300038: METAL_L4
+    3300040: METAL_L5
+    3300042: METAL_L6
+    3300044: METAL_L7
+    3300046: WHITE_G0
+    3300048: WHITE_G1
+    3300050: WHITE_GL
+    4300000: METAL_L0
+    4300002: BLUE_R20
+    4300004: BLACK_L0
+    4300006: BLUE_R21
+    4300008: BLACK_L1
+    4300010: METAL_L1
+    4300012: A_SHIP_0
+    4300014: A_SHIP_1
+    4300016: WHITE_G0
+    4300018: BLACK_TU
+    4300020: METAL_L2
+    4300022: BLACK_L2
+    4300024: METAL_L3
+    4300026: BLACK_L3
+    4300028: METAL_L4
+    4300030: BLUE_R22
+    4300032: METAL_L5
+    4300034: GREY_ALU
+    4300036: WHITE_GL
+    4300038: A_SHIP_2
+    4300040: METAL_L6
+    4300042: BROWN_RA
+    4300044: A_SHIP_3
+    4300046: BLACK_TH
+    4300048: WHITE_G1
+    4300050: METAL_L7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/0_Somewhere_In_Hoth.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 049762af465f746e8814785be0db33f9
+timeCreated: 1488305157
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_SHIP_WHITE0
+    100002: A_SHIP_WHITE1
+    100004: A_SHIP_WHITE2
+    100006: A_SHIP_WHITE3
+    100008: BLACK_LENS0
+    100010: BLACK_LENS1
+    100012: BLACK_LENS2
+    100014: BLACK_LENS3
+    100016: BLACK_THRONE
+    100018: BLACK_TUBE
+    100020: BLUE_R2_D20
+    100022: BLUE_R2_D21
+    100024: BLUE_R2_D22
+    100026: BROWN_RAILING
+    100028: GREY_ALUMINUM
+    100030: METAL_LIGHT0
+    100032: METAL_LIGHT1
+    100034: METAL_LIGHT2
+    100036: METAL_LIGHT3
+    100038: METAL_LIGHT4
+    100040: METAL_LIGHT5
+    100042: METAL_LIGHT6
+    100044: METAL_LIGHT7
+    100046: //RootNode
+    100048: WHITE_GENERAL0
+    100050: WHITE_GENERAL1
+    100052: WHITE_GLOW
+    400000: A_SHIP_WHITE0
+    400002: A_SHIP_WHITE1
+    400004: A_SHIP_WHITE2
+    400006: A_SHIP_WHITE3
+    400008: BLACK_LENS0
+    400010: BLACK_LENS1
+    400012: BLACK_LENS2
+    400014: BLACK_LENS3
+    400016: BLACK_THRONE
+    400018: BLACK_TUBE
+    400020: BLUE_R2_D20
+    400022: BLUE_R2_D21
+    400024: BLUE_R2_D22
+    400026: BROWN_RAILING
+    400028: GREY_ALUMINUM
+    400030: METAL_LIGHT0
+    400032: METAL_LIGHT1
+    400034: METAL_LIGHT2
+    400036: METAL_LIGHT3
+    400038: METAL_LIGHT4
+    400040: METAL_LIGHT5
+    400042: METAL_LIGHT6
+    400044: METAL_LIGHT7
+    400046: //RootNode
+    400048: WHITE_GENERAL0
+    400050: WHITE_GENERAL1
+    400052: WHITE_GLOW
+    2300000: A_SHIP_WHITE0
+    2300002: A_SHIP_WHITE1
+    2300004: A_SHIP_WHITE2
+    2300006: A_SHIP_WHITE3
+    2300008: BLACK_LENS0
+    2300010: BLACK_LENS1
+    2300012: BLACK_LENS2
+    2300014: BLACK_LENS3
+    2300016: BLACK_THRONE
+    2300018: BLACK_TUBE
+    2300020: BLUE_R2_D20
+    2300022: BLUE_R2_D21
+    2300024: BLUE_R2_D22
+    2300026: BROWN_RAILING
+    2300028: GREY_ALUMINUM
+    2300030: METAL_LIGHT0
+    2300032: METAL_LIGHT1
+    2300034: METAL_LIGHT2
+    2300036: METAL_LIGHT3
+    2300038: METAL_LIGHT4
+    2300040: METAL_LIGHT5
+    2300042: METAL_LIGHT6
+    2300044: METAL_LIGHT7
+    2300046: WHITE_GENERAL0
+    2300048: WHITE_GENERAL1
+    2300050: WHITE_GLOW
+    3300000: A_SHIP_WHITE0
+    3300002: A_SHIP_WHITE1
+    3300004: A_SHIP_WHITE2
+    3300006: A_SHIP_WHITE3
+    3300008: BLACK_LENS0
+    3300010: BLACK_LENS1
+    3300012: BLACK_LENS2
+    3300014: BLACK_LENS3
+    3300016: BLACK_THRONE
+    3300018: BLACK_TUBE
+    3300020: BLUE_R2_D20
+    3300022: BLUE_R2_D21
+    3300024: BLUE_R2_D22
+    3300026: BROWN_RAILING
+    3300028: GREY_ALUMINUM
+    3300030: METAL_LIGHT0
+    3300032: METAL_LIGHT1
+    3300034: METAL_LIGHT2
+    3300036: METAL_LIGHT3
+    3300038: METAL_LIGHT4
+    3300040: METAL_LIGHT5
+    3300042: METAL_LIGHT6
+    3300044: METAL_LIGHT7
+    3300046: WHITE_GENERAL0
+    3300048: WHITE_GENERAL1
+    3300050: WHITE_GLOW
+    4300000: A_SHIP_WHITE0
+    4300002: A_SHIP_WHITE1
+    4300004: A_SHIP_WHITE2
+    4300006: A_SHIP_WHITE3
+    4300008: BLACK_LENS0
+    4300010: BLACK_LENS1
+    4300012: BLACK_LENS2
+    4300014: BLACK_LENS3
+    4300016: BLACK_THRONE
+    4300018: BLACK_TUBE
+    4300020: BLUE_R2_D20
+    4300022: BLUE_R2_D21
+    4300024: BLUE_R2_D22
+    4300026: BROWN_RAILING
+    4300028: GREY_ALUMINUM
+    4300030: METAL_LIGHT0
+    4300032: METAL_LIGHT1
+    4300034: METAL_LIGHT2
+    4300036: METAL_LIGHT3
+    4300038: METAL_LIGHT4
+    4300040: METAL_LIGHT5
+    4300042: METAL_LIGHT6
+    4300044: METAL_LIGHT7
+    4300046: WHITE_GENERAL0
+    4300048: WHITE_GENERAL1
+    4300050: WHITE_GLOW
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
