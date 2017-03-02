@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 885963176732b44428b364ad72013b4b
+timeCreated: 1488477320
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _trier01
+    100002: _trier02
+    100004: accroche s
+    100006: anneau mo0
+    100008: anneau mor
+    100010: ChamferBo0
+    100012: ChamferBox
+    100014: defense 01
+    100016: defense 02
+    100018: dent desso
+    100020: dent dessu
+    100022: guide
+    100024: kit survie
+    100026: lanniere t
+    100028: morre
+    100030: obj elect0
+    100032: obj electr
+    100034: oeil 01
+    100036: oeil 02
+    100038: sel
+    100040: sous sel
+    100042: Sphere05
+    100044: Sphere06
+    100046: Sphere07
+    100048: Sphere08
+    100050: Sphere09
+    100052: Sphere10
+    100054: Sphere11
+    100056: Sphere12
+    100058: tauntaun
+    100060: //RootNode
+    100062: Tube07
+    100064: Tube08
+    100066: Tube09
+    100068: Tube10
+    100070: Tube11
+    100072: Tube12
+    100074: Tube13
+    100076: Tube14
+    400000: _trier01
+    400002: _trier02
+    400004: accroche s
+    400006: anneau mo0
+    400008: anneau mor
+    400010: ChamferBo0
+    400012: ChamferBox
+    400014: defense 01
+    400016: defense 02
+    400018: dent desso
+    400020: dent dessu
+    400022: guide
+    400024: kit survie
+    400026: lanniere t
+    400028: morre
+    400030: obj elect0
+    400032: obj electr
+    400034: oeil 01
+    400036: oeil 02
+    400038: sel
+    400040: sous sel
+    400042: Sphere05
+    400044: Sphere06
+    400046: Sphere07
+    400048: Sphere08
+    400050: Sphere09
+    400052: Sphere10
+    400054: Sphere11
+    400056: Sphere12
+    400058: tauntaun
+    400060: //RootNode
+    400062: Tube07
+    400064: Tube08
+    400066: Tube09
+    400068: Tube10
+    400070: Tube11
+    400072: Tube12
+    400074: Tube13
+    400076: Tube14
+    2300000: _trier01
+    2300002: _trier02
+    2300004: accroche s
+    2300006: anneau mo0
+    2300008: anneau mor
+    2300010: ChamferBo0
+    2300012: ChamferBox
+    2300014: defense 01
+    2300016: defense 02
+    2300018: dent desso
+    2300020: dent dessu
+    2300022: guide
+    2300024: kit survie
+    2300026: lanniere t
+    2300028: morre
+    2300030: oeil 01
+    2300032: oeil 02
+    2300034: sel
+    2300036: sous sel
+    2300038: Sphere05
+    2300040: Sphere06
+    2300042: Sphere07
+    2300044: Sphere08
+    2300046: Sphere09
+    2300048: Sphere10
+    2300050: Sphere11
+    2300052: Sphere12
+    2300054: tauntaun
+    2300056: Tube07
+    2300058: Tube08
+    2300060: Tube09
+    2300062: Tube10
+    2300064: Tube11
+    2300066: Tube12
+    2300068: Tube13
+    2300070: Tube14
+    3300000: _trier01
+    3300002: _trier02
+    3300004: accroche s
+    3300006: anneau mo0
+    3300008: anneau mor
+    3300010: ChamferBo0
+    3300012: ChamferBox
+    3300014: defense 01
+    3300016: defense 02
+    3300018: dent desso
+    3300020: dent dessu
+    3300022: guide
+    3300024: kit survie
+    3300026: lanniere t
+    3300028: morre
+    3300030: oeil 01
+    3300032: oeil 02
+    3300034: sel
+    3300036: sous sel
+    3300038: Sphere05
+    3300040: Sphere06
+    3300042: Sphere07
+    3300044: Sphere08
+    3300046: Sphere09
+    3300048: Sphere10
+    3300050: Sphere11
+    3300052: Sphere12
+    3300054: tauntaun
+    3300056: Tube07
+    3300058: Tube08
+    3300060: Tube09
+    3300062: Tube10
+    3300064: Tube11
+    3300066: Tube12
+    3300068: Tube13
+    3300070: Tube14
+    4300000: tauntaun
+    4300002: accroche s
+    4300004: defense 01
+    4300006: defense 02
+    4300008: dent dessu
+    4300010: dent desso
+    4300012: oeil 01
+    4300014: oeil 02
+    4300016: anneau mor
+    4300018: anneau mo0
+    4300020: morre
+    4300022: guide
+    4300024: sel
+    4300026: _trier02
+    4300028: _trier01
+    4300030: sous sel
+    4300032: kit survie
+    4300034: lanniere t
+    4300036: Sphere06
+    4300038: Sphere05
+    4300040: Tube07
+    4300042: Tube08
+    4300044: Tube09
+    4300046: Sphere07
+    4300048: Sphere08
+    4300050: Tube10
+    4300052: ChamferBox
+    4300054: ChamferBo0
+    4300056: Sphere09
+    4300058: Sphere10
+    4300060: Tube11
+    4300062: Tube12
+    4300064: Tube13
+    4300066: Sphere11
+    4300068: Sphere12
+    4300070: Tube14
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

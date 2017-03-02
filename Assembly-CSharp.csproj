@@ -46,10 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\JsonParser.cs" />
-     <Compile Include="Assets\PlayerControls.cs" />
-     <Compile Include="Assets\SimpleJSON.cs" />
+     <Compile Include="Assets\Scripts\Character.cs" />
+     <Compile Include="Assets\Scripts\JsonParser.cs" />
+     <Compile Include="Assets\Scripts\PlayerControls.cs" />
+     <Compile Include="Assets\Scripts\SimpleJSON.cs" />
      <None Include="Assets\3d_models\hothsoldier\hoth-soldier.txt" />
+     <None Include="Assets\3d_models\tauntaun(3DS)\tauntaun.txt" />
      <None Include="Assets\3d_models\DC-15 Rifle\LICENSE.txt" />
      <None Include="Assets\3d_models\DC-15 Rifle\Read-me.txt" />
  <Reference Include="UnityEngine.UI">
