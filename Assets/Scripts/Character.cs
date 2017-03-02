@@ -12,5 +12,7 @@ public class Character : MonoBehaviour {
 	// Update is called once per frame
 	public void CharacterSelected(){
 		audio.Play ();
+		GetComponent<Animator> ().SetBool ("Bool",true);
+//		anim.Play();
 	}
 }
