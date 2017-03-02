@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Wars Store", "Assembly-CSharp.csproj", "{6F7FFBF0-51F4-30F1-2BFE-605B74D69BAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{6F7FFBF0-51F4-30F1-2BFE-605B74D69BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7FFBF0-51F4-30F1-2BFE-605B74D69BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7FFBF0-51F4-30F1-2BFE-605B74D69BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7FFBF0-51F4-30F1-2BFE-605B74D69BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
