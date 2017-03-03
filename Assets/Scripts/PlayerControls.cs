@@ -67,14 +67,15 @@ public class PlayerControls : MonoBehaviour {
 		var t = 0f;
 		while(t < 1)
 		{
-			t += Time.deltaTime / timeToMove;
-			transform.position = Vector3.Lerp(currentPos, position, t);
-			yield return null;
 			if (index == 0) {
 				transform.rotation = Quaternion.Euler (0, 0, 0);
 			} else {
 				transform.LookAt(info[index-1].transform);
 			}
+			t += Time.deltaTime / timeToMove;
+			transform.position = Vector3.Lerp(currentPos, position, t);
+			yield return null;
+
 		}
 
 	}
